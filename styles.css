@@ -170,6 +170,7 @@ body {
 }
 
 .add-to-cart img {
+  align-items: center;
   height: 100%;
   filter: brightness(0) saturate(100%) invert(1);
   margin-right: var(--small-padding);
