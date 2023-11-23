@@ -157,7 +157,7 @@ body {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
-  background-color: rgb(249, 116, 0);
+  background-color: hsl(26, 100%, 55%);
   font-weight: 700;
   font-size: 1rem;
   color: var(--white);
@@ -173,6 +173,7 @@ body {
   height: 100%;
   filter: brightness(0) saturate(100%) invert(1);
   margin-right: var(--small-padding);
+  
 }
 
 h3 {
